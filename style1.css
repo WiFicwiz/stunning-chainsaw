@@ -1,0 +1,60 @@
+﻿body {
+    background: #19171b;
+}
+
+.tablink {
+    background-color: #000000;
+    color: #f9df7b;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+
+header {
+    background-color: #000000;
+    width: 100%;
+   
+}
+center {
+    color: #f9df7b;
+    height: 50px;
+    padding-top: 20px;
+}
+
+.h {
+    width: 50%;
+    margin-top: 15px;
+    margin-top: 5px;
+    color: #000000;
+}
+.h2 {
+    margin-top: 15px;
+    width: 50%;
+    color: #000000;
+  
+}
+.logo {
+    margin-top: 5px;
+    width: 50%;
+    color: #000000;
+}
+
+section {
+     background: linear-gradient(#F9F295,#E0AA3E);
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 35%;
+    height: 450%;
+    margin-top: 220px;
+}
+
+h1{
+    color: #000000
+}
+
